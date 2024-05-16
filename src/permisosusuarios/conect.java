@@ -25,5 +25,5 @@ public class conect {
             JOptionPane.INFORMATION_MESSAGE);
         }
         return conectar;
-    }
+    }//UUHLKJHJKLHKL
 }
